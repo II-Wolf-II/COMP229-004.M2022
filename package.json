@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "comp299.004.m2022",
+  "description": "COMP229.004 - Code Examples",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/II-Wolf-II/COMP229.004.git"
+  },
+  "keywords": [
+    "COMP229",
+    "Nodejs",
+    "Express",
+    "MEAN"
+  ],
+  "author": "Aaron Ainsworth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/II-Wolf-II/COMP229.004/issues"
+  },
+  "homepage": "https://github.com/II-Wolf-II/COMP229.004#readme"
+}
